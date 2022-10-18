@@ -2,6 +2,7 @@
     font-family: 'Courier New', Courier, monospace;
 }
 
+
 .header-one {
     margin-top: 100px;
     margin-left: 20px;
@@ -39,6 +40,7 @@ a {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     transition: 0.3s;
     border-radius: 50px;
+    background-color: white;
 }
 
 .card:hover {
@@ -46,23 +48,30 @@ a {
 }
 
 
-.card-img-profile {
+/* .card-img-profile {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     transition: 0.3s;
     border-radius: 50px;
     margin-right: 10px;
-}
+} */
 
-.card-img-profile:hover {
+/* .card-img-profile:hover {
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
-}
+} */
 
 .first-two-div {
     margin-left: 40px;
     font-size: 32px;
 }
 
+/* about me */
+
 #div-about-me {
     font-size: 20px;
     padding: 30px;
+    height: 590px;
+    margin-left: 5px;
+    margin-right: 5px;
 }
+
+/* Skills */
